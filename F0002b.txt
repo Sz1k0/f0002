@@ -1,0 +1,8 @@
+cica = 'kutya'
+kutya = 'egér'
+egér = 'cica'
+cica = 'tyúk'
+kutya = cica
+
+Tyúkot írja ki.
+

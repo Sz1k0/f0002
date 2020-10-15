@@ -1,0 +1,2 @@
+5 sornyi ki írás és 6 sor üresen mard 
+pl: print('asd\n') <--azaz 1 sor ki marad a \n miatt vagy print('\xyz') itt pedig a backslash miatt.  
